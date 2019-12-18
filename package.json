@@ -1,0 +1,34 @@
+{
+  "name": "react-native-rn-wechat-module",
+  "title": "React Native 微信SDK集成",
+  "version": "0.0.1",
+  "description": "React Native 微信SDK集成",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaixiaoqu/react-native-rn-wechat-module.git",
+    "baseUrl": "https://github.com/zaixiaoqu/react-native-rn-wechat-module"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-rn-wechat-module",
+    "React Native 微信集成",
+    "React Native 微信登录",
+    "React Native 微信支付",
+    "微信集成",
+    "微信登录",
+    "微信支付"
+  ],
+  "author": {
+    "name": "yusheng",
+    "email": "don@zaixiaoqu.cn"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zaixiaoqu/react-native-rn-wechat-module/issues"
+  },
+  "homepage": "https://github.com/zaixiaoqu/react-native-rn-wechat-module.git#readme"
+}
