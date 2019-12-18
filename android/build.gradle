@@ -68,6 +68,7 @@ repositories {
 }
 
 dependencies {
+    api files('libs/libammsdk.jar')
     //noinspection GradleDynamicVersion
     implementation 'com.facebook.react:react-native:+'  // From node_modules
 }
